@@ -1,0 +1,26 @@
+[
+  {
+    "email": "lin91@example.com",
+    "password": "lin91@teamfd.com",
+    "role": "host",
+    "sourcecode": "LIN91"
+  },
+  {
+    "email": "dav79@example.com",
+    "password": "dav79@teamfd.com",
+    "role": "host",
+    "sourcecode": "DAV79"
+  },
+  {
+    "email": "sahn@example.com",
+    "password": "sahn@teamfd.com",
+    "role": "host",
+    "sourcecode": "SAHN"
+  },
+  {
+    "email": "mihf@example.com",
+    "password": "mihf@teamfd.com",
+    "role": "host",
+    "sourcecode": "MIHF"
+  }
+]
